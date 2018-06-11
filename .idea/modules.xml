@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_NumberOf1InBinary/10_NumberOf1InBinary.iml" filepath="$PROJECT_DIR$/10_NumberOf1InBinary/10_NumberOf1InBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_DeleteListNode/13_DeleteListNode.iml" filepath="$PROJECT_DIR$/13_DeleteListNode/13_DeleteListNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Singleton/2_Singleton.iml" filepath="$PROJECT_DIR$/2_Singleton/2_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_FindInPartiallySortedMatrix/3_FindInPartiallySortedMatrix.iml" filepath="$PROJECT_DIR$/3_FindInPartiallySortedMatrix/3_FindInPartiallySortedMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_Fibonacci/9_Fibonacci.iml" filepath="$PROJECT_DIR$/9_Fibonacci/9_Fibonacci.iml" />
+    </modules>
+  </component>
+</project>
