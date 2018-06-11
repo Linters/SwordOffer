@@ -1,5 +1,8 @@
 package cn.linter.offer;
 
+/**
+ * linCQ
+ */
 public class FindInPartiallySortedMatrix {
 
     // 面试题3：二维数组中的查找
